@@ -1,0 +1,1 @@
+select nom, prenom, age, profession, adresse, ville, CP from utilisateur where profession like '%tique%';
